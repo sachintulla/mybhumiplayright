@@ -1,0 +1,12 @@
+{
+  "name": "bhu-bharati-service",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "playwright": "^1.44.0",
+    "2captcha-ts": "^1.3.1"
+  }
+}
